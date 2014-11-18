@@ -10,7 +10,7 @@
     <name>testwebapp Maven Webapp</name>
     <url>http://maven.apache.org</url>
     <scm>
-        <developerConnection>scm:git:https://hg.topicus.nl/jeugdzorg/multisignaal</developerConnection>
+        <developerConnection>scm:git:https://github.com/ebunders/testwebapp.git</developerConnection>
     </scm>
 
     <dependencies>
